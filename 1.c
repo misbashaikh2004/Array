@@ -1,3 +1,4 @@
+//Write a Program for Display Data
 #include<stdio.h>
 int main()
 {
